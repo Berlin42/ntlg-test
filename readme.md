@@ -11,3 +11,9 @@
 * Низкая цена
 
 ~~пытаюсь разобраться с коммитами на гитхабе~~
+
+```css
+.selector {
+  font-family: "Awesome", Arial, sans-serif;
+  color: red;
+}
